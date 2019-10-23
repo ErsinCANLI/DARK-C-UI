@@ -1,0 +1,9 @@
+C:\Users\ersin.canli\Documents\GitHub\DARK_UI\DARK_UI\bin\Debug\DARK_UI.exe.config
+C:\Users\ersin.canli\Documents\GitHub\DARK_UI\DARK_UI\bin\Debug\DARK_UI.exe
+C:\Users\ersin.canli\Documents\GitHub\DARK_UI\DARK_UI\bin\Debug\DARK_UI.pdb
+C:\Users\ersin.canli\Documents\GitHub\DARK_UI\DARK_UI\obj\Debug\DARK_UI.csprojResolveAssemblyReference.cache
+C:\Users\ersin.canli\Documents\GitHub\DARK_UI\DARK_UI\obj\Debug\DARK_UI.Properties.Resources.resources
+C:\Users\ersin.canli\Documents\GitHub\DARK_UI\DARK_UI\obj\Debug\DARK_UI.csproj.GenerateResource.Cache
+C:\Users\ersin.canli\Documents\GitHub\DARK_UI\DARK_UI\obj\Debug\DARK_UI.exe
+C:\Users\ersin.canli\Documents\GitHub\DARK_UI\DARK_UI\obj\Debug\DARK_UI.pdb
+C:\Users\ersin.canli\Documents\GitHub\DARK_UI\DARK_UI\obj\Debug\DARK_UI.CNL.resources
